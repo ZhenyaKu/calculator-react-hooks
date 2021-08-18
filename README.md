@@ -1,6 +1,6 @@
 # Calculator app for
 
-[Live demo](http://localhost:3000)
+[Live demo]("https://ZhenyaKu.github.io/calculator-react-hooks")
 
 
 # Getting Started with Create React App
