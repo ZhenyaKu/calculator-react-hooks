@@ -68,7 +68,7 @@ function App() {
           <button onClick={() => updateCalc('+')}>+</button>
           <button onClick={() => updateCalc('-')}>-</button>
 
-          <button onClick={delateLast}>DEL</button>
+          <button onClick={delateLast}>D</button>
           <button onClick={clearCalc}>C</button>
         </div>
 
