@@ -1,6 +1,6 @@
 # Calculator app for
 
-[Live demo](https://ZhenyaKu.github.io/calculator-react-hooks)
+[Live demo](https://ZhenyaKu.github.io/calculator-react-hooks/)
 
 
 # Getting Started with Create React App
